@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fion-about/static/css/main.7da97492.chunk.css",
+    "main.js": "/fion-about/static/js/main.d006ffb3.chunk.js",
+    "main.js.map": "/fion-about/static/js/main.d006ffb3.chunk.js.map",
+    "runtime-main.js": "/fion-about/static/js/runtime-main.522ed2dd.js",
+    "runtime-main.js.map": "/fion-about/static/js/runtime-main.522ed2dd.js.map",
+    "static/css/2.a1574b24.chunk.css": "/fion-about/static/css/2.a1574b24.chunk.css",
+    "static/js/2.d861f080.chunk.js": "/fion-about/static/js/2.d861f080.chunk.js",
+    "static/js/2.d861f080.chunk.js.map": "/fion-about/static/js/2.d861f080.chunk.js.map",
+    "static/js/3.2076a6e3.chunk.js": "/fion-about/static/js/3.2076a6e3.chunk.js",
+    "static/js/3.2076a6e3.chunk.js.map": "/fion-about/static/js/3.2076a6e3.chunk.js.map",
+    "index.html": "/fion-about/index.html",
+    "static/css/2.a1574b24.chunk.css.map": "/fion-about/static/css/2.a1574b24.chunk.css.map",
+    "static/css/main.7da97492.chunk.css.map": "/fion-about/static/css/main.7da97492.chunk.css.map",
+    "static/js/2.d861f080.chunk.js.LICENSE.txt": "/fion-about/static/js/2.d861f080.chunk.js.LICENSE.txt",
+    "static/media/May.c1f22ffa.jpg": "/fion-about/static/media/May.c1f22ffa.jpg",
+    "static/media/App.css": "/fion-about/static/media/colours.e5843cc5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.522ed2dd.js",
+    "static/css/2.a1574b24.chunk.css",
+    "static/js/2.d861f080.chunk.js",
+    "static/css/main.7da97492.chunk.css",
+    "static/js/main.d006ffb3.chunk.js"
+  ]
+}
